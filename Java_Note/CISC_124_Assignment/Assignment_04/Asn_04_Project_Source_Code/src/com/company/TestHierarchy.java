@@ -1,3 +1,5 @@
+package com.company;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.File;
@@ -12,7 +14,7 @@ import org.junit.jupiter.api.Test;
 class TestHierarchy {
 
 	public static ArrayList<Fastener> db;
-	
+
 	@BeforeAll
 	public static void oneTimeSetUp() throws Exception {
 		db = new ArrayList<>();

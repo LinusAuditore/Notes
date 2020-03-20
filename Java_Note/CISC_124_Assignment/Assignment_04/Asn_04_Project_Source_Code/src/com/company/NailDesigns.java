@@ -1,3 +1,5 @@
+package com.company;
+
 import java.io.Serializable;
 
 // Supplied for your use in Assignment 4.
@@ -31,5 +33,21 @@ public final class NailDesigns implements Serializable {
 		public static final CommonNailGauges G11_5 = new CommonNailGauges(11.5f);
 		public String toString() { return "" + gauge; }
 	}
-	
+
+	public static class CommonNailSizes implements Serializable {
+		private static final long serialVersionUID = -5312569835250174515L;
+		private int size;
+
+		private CommonNailSizes (int size) {
+			this.size = size;
+		}
+
+		public static final CommonNailSizes S6D = new CommonNailSizes(6);
+		public static final CommonNailSizes S8D = new CommonNailSizes(8);
+		public static final CommonNailSizes S10D = new CommonNailSizes(10);
+		public static final CommonNailSizes S12D = new CommonNailSizes(12);
+		public static final CommonNailSizes S16D = new CommonNailSizes(16);
+		public static final CommonNailSizes S60D = new CommonNailSizes(60);
+		public String toString() { return "" + size; }
+	}
 } // end NailDesigns

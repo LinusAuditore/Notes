@@ -1,3 +1,5 @@
+package com.company;
+
 import java.io.Serializable;
 
 // Supplied for your use in Assignment 4.
