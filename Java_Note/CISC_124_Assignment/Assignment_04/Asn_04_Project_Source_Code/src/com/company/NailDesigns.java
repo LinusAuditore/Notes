@@ -21,7 +21,7 @@ public final class NailDesigns implements Serializable {
 		public static final CommonNailLengths L6 = new CommonNailLengths(6.0f);
 		public String toString() { return "" + length; }
 	}
-	
+
 	public static class CommonNailGauges implements Serializable {
 		private static final long serialVersionUID = -1976857688978088109L;
 		private float gauge;

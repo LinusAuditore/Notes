@@ -1,7 +1,11 @@
 package com.company;
 
-public class WoodScrew {
-    public WoodScrew(double v, Threads tr, Materials.ThreadedMaterials mat, Finishes.ScrewFinish fin, ScrewDesigns.ScrewHeads head, ScrewDesigns.ScrewDrive drive, ScrewDesigns.WoodScrewPoints pt, double v1, int i) {
+import java.io.Serializable;
 
+public class WoodScrew extends Fastener implements Serializable{
+
+    public WoodScrew(double length, Threads threads, Materials.ThreadedMaterials materials, Finishes.ScrewFinish finish, ScrewDesigns.ScrewHeads heads, ScrewDesigns.ScrewDrive drive, ScrewDesigns.WoodScrewPoints points, double price, int number) {
+        super(length, threads, materials, finish, heads, drive, points, price, number);
     }
 }
+

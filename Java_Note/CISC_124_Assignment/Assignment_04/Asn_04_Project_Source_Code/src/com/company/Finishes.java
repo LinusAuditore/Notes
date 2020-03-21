@@ -13,7 +13,8 @@ public final class Finishes implements Serializable {
 	
 	public enum CommonNailFinish {Bright, Hot_Dipped_Galvanized};
 
-	public enum ScrewFinish {Chrome, Hot_Dipped, Galvanized, Plain, Yellow_Zinc, Zinc};
+	public enum ScrewFinish {Chrome, Hot_Dipped, Galvanized, Plain, Yellow_Zinc, Zinc, ACQ_1000_Hour};
+
 
 	private static final long serialVersionUID = 3287198433875663480L;
 }
