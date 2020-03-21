@@ -4,8 +4,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 public class Fastener implements Serializable {
-
-
     private Threads threads;
     private Materials.ThreadedMaterials Nmaterials;
     private Finishes.WingNutFinish Nfinish;
@@ -138,4 +136,10 @@ public class Fastener implements Serializable {
             throw new IllegalFastener("Illegal number per unit");
         }
     }
+
+    public double getOrderCost(int orderSize) {
+        double t_price = price * orderSize;
+        return t_price;
+    }
+
 }
