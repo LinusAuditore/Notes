@@ -84,7 +84,8 @@ bPane.setTop(myButton); //将按钮对象放置于BorderPane的位置"上"
 我们还可以使用<b>Pos enum</b>中的值和<b>"static.setAlignment()"</b>来指定位置内的对齐方式。<br>
 这种布局非常适合将整个窗口分为多个子区域，然后在有需要的的区域中进行进一步的规划。<br>
 
-现在，我们来看一个BoderPane的代码样例:
+现在，我们来看一个BoderPane的代码样例:<br>
+![avatar](Java_Note/Java课程笔记/NotePicture/批注 2020-03-30 181325.png)
 
 
 ```Java
