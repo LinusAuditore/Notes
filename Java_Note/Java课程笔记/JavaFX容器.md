@@ -4,7 +4,7 @@
 ## 本章节我们会涉及：
 
 - JavaFX 场景图 (Scene Graph)<br>
-- 什么时Pane对象？<br>
+- 什么是Pane对象？<br>
     - 关于BorderPane的一些介绍
     - 一个BoderPane的样例代码
 
