@@ -84,7 +84,8 @@ bPane.setTop(myButton); //将按钮对象放置于BorderPane的位置"上"
 我们还可以使用<b>Pos enum</b>中的值和<b>"static.setAlignment()"</b>来指定位置内的对齐方式。<br>
 这种布局非常适合将整个窗口分为多个子区域，然后在有需要的的区域中进行进一步的规划。<br>
 
-现在，我们来看一个BoderPane的代码样例:
+现在，我们来看一个BoderPane的代码样例:<br>
+![avatar](Java_Note/Java课程笔记/NotePicture/批注 2020-03-30 181325.png)
 
 
 ```Java
@@ -129,7 +130,6 @@ public void start(Stage primaryStage) {
 ```
 
 这就是以上代码的运行结果：<br>
-![avatar](Java_Note/Java课程笔记/NotePicture/批注 2020-03-30 181325.png)
-
+![avatar](https://s1.ax1x.com/2020/03/30/GncjLF.png)<br>
 写在最后的一些小提示：<br>
 在一个JavaFX项目被初始化的时候，这些Pane对象所在的类并不会被import，这句需要我们手动去完成，好在诸如Eclipse和IDEA这样的IDE可以自动Import，但是要注意，<b>import时一定要选定 javaFX包下的内容</b>
