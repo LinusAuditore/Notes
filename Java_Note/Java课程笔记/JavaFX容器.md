@@ -130,6 +130,6 @@ public void start(Stage primaryStage) {
 ```
 
 这就是以上代码的运行结果：<br>
-![avatar](https://s1.ax1x.com/2020/03/30/GncjLF.png)
+![avatar](https://s1.ax1x.com/2020/03/30/GncjLF.png)<br>
 写在最后的一些小提示：<br>
 在一个JavaFX项目被初始化的时候，这些Pane对象所在的类并不会被import，这句需要我们手动去完成，好在诸如Eclipse和IDEA这样的IDE可以自动Import，但是要注意，<b>import时一定要选定 javaFX包下的内容</b>
