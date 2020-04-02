@@ -12,7 +12,7 @@
 
 <ScrollPane fx:id="LayoutPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
     <content>
-        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="403.0" prefWidth="820.0">
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="403.0" prefWidth="850.0">
             <children>
                 <Label layoutX="10.0" layoutY="38.0" text="Please Choose Pizza Size" />
                 <ChoiceBox fx:id="Size" layoutX="10.0" layoutY="58.0" prefWidth="150.0">
@@ -79,7 +79,7 @@
                 <Label layoutX="200.0" layoutY="267.0" text="How many pizza do you want?" />
                 <TextField fx:id="NumberInput" layoutX="200.0" layoutY="287.0" prefHeight="30.0" prefWidth="85.0" />
                 <Button fx:id="LineItemGenerator" layoutX="200.0" layoutY="327.0" mnemonicParsing="false" text="Generate Line Item" onAction="#LineItemGeneration"/>
-                <TextArea fx:id="LineItemInfo" editable="false" layoutX="385.0" layoutY="19.0" prefHeight="307.0" prefWidth="380.0" promptText="Your line item information will be here" />
+                <TextArea fx:id="LineItemInfo" editable="false" layoutX="385.0" layoutY="19.0" prefHeight="307.0" prefWidth="440.0" promptText="Your line item information will be here" />
                 <Button fx:id="DisplayUnitPrice" layoutX="201.0" layoutY="187.0" mnemonicParsing="false" onAction="#ViewUnit" text="View unit price" />
                 <TextField fx:id="UnitPrice" editable="false" layoutX="200.0" layoutY="227.0" prefHeight="30.0" prefWidth="130.0" />
                 <TextField fx:id="TotalPrice" editable="false" layoutX="385.0" layoutY="327.0" prefHeight="30.0" prefWidth="201.0" promptText="Total Price will be here" />
