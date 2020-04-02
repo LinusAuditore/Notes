@@ -24,7 +24,7 @@
                 </ChoiceBox>
 
                 <Label layoutX="10.0" layoutY="90.0" text="Do you need a Vege-Pizza?" />
-                <ChoiceBox fx:id="Vege" layoutX="10.0" layoutY="110.0" prefWidth="150.0">
+                <ChoiceBox fx:id="Vegetarian" layoutX="10.0" layoutY="110.0" prefWidth="150.0">
                     <items>
                         <FXCollections fx:factory="observableArrayList">
                             <String fx:value="Vege" />

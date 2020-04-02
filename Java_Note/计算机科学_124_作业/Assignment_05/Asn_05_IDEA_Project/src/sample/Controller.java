@@ -21,8 +21,10 @@ public class Controller {
     @FXML
     private ChoiceBox Cheese;
     @FXML
-    private ChoiceBox Vege;
+    private ChoiceBox Vegetarian;
     @FXML
     private ChoiceBox Size;
     private LineItem theLine;
+    private Pizza pizza;
+
 }
