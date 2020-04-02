@@ -14,7 +14,7 @@ public class Controller {
     @FXML
     private Button LineItemGenerator;
     @FXML
-    private TextField Number;
+    private TextField NumberInput;
     @FXML
     private ChoiceBox Ham;
     @FXML
@@ -30,9 +30,15 @@ public class Controller {
     @FXML
     private TextField UnitPrice;
     @FXML
+    private TextField TotalPrice;
+    @FXML
     private Button DisplayUnitPrice;
-    private LineItem theLine;
+    private LineItem[] Lines = new LineItem[100000];
+    private String LineStrInfo = "";
+    private double LinePriceInfo = 0.0;
+    private int i = -1;
     private Pizza pizza;
+
 
     final String[] ham = new String[]{"Single", "None"};
     final String[] pepper = new String[]{"Single", "None"};
@@ -41,10 +47,13 @@ public class Controller {
     final String[] size = new String[]{"Small", "Medium", "Large"};
     final Boolean[] vegetarian = new Boolean[]{true, false};
 
+    public Controller() {
+    }
+
     // Events Start here
     // Create a Pizza and display the unit price
-    @FXML
-    private void SinglePizza (ActionEvent event){
+
+    private void SinglePizza (){
         String HamChoice = ham[Ham.getSelectionModel().getSelectedIndex()];
         String PepperChoice = pepper[Pepper.getSelectionModel().getSelectedIndex()];
         String PineChoice = pine[Pine.getSelectionModel().getSelectedIndex()];
@@ -56,8 +65,40 @@ public class Controller {
         }catch (IllegalPizza illegalPizza) {
             JOptionPane.showMessageDialog(null, "Invalid Pizza Configuration!" ,"Oh, no!",  JOptionPane.PLAIN_MESSAGE);
         }
+
+    }
+    @FXML
+    private void ViewUnit(ActionEvent event){
+        SinglePizza();
         double UPrice = pizza.getCost();
         UnitPrice.setText("CA$ " + UPrice);
     }
+    @FXML
+    private void LineItemGeneration(ActionEvent event) {
+
+        int TotalNum = 1;
+        try{
+            TotalNum = Integer.parseInt(NumberInput.getText());
+        }catch (NumberFormatException ignored){
+            JOptionPane.showMessageDialog(null, "Invalid Number Choice!" ,"Oh, no!",  JOptionPane.PLAIN_MESSAGE);
+            return;
+        }
+        SinglePizza();
+        LineItem theLine = new LineItem(TotalNum, this.pizza);
+        this.i += 1;
+        this.Lines[this.i] = theLine;
+        try {
+            this.LineStrInfo += theLine.toString();
+            this.LineStrInfo += "\n";
+            this.LinePriceInfo += theLine.getCost();
+        } catch (IllegalPizza illegalPizza) {
+            JOptionPane.showMessageDialog(null, "Invalid Order Configuration!", "Oh, no!", JOptionPane.PLAIN_MESSAGE);
+            return;
+        }
+        LineItemInfo.setText(this.LineStrInfo);
+        TotalPrice.setText("CA$ " + this.LinePriceInfo);
+
+    }
+
 
 }

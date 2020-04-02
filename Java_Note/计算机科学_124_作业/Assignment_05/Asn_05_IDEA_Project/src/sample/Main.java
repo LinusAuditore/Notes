@@ -13,7 +13,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("GUI Pizza Order System (Ver.114514, Build.1919810)");
-        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.setScene(new Scene(root, 820, 403));
         primaryStage.show();
     }
 
