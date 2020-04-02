@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <ChoiceBox layoutX="14.0" layoutY="58.0" prefWidth="150.0" />
+            <Label layoutX="15.0" layoutY="38.0" text="请选择披萨大小" />
+            <Label layoutX="15.0" layoutY="90.0" text="请选择是否素食" />
+            <ChoiceBox layoutX="14.0" layoutY="110.0" prefWidth="150.0" />
+            <Label layoutX="15.0" layoutY="160.0" text="芝士选项" />
+            <ChoiceBox layoutX="14.0" layoutY="185.0" prefWidth="150.0" />
+            <Label layoutX="15.0" layoutY="215.0" text="菠萝" />
+            <ChoiceBox layoutX="14.0" layoutY="235.0" prefWidth="150.0" />
+            <Label layoutX="15.0" layoutY="265.0" text="青椒" />
+            <ChoiceBox layoutX="14.0" layoutY="285.0" prefWidth="150.0" />
+            <Label layoutX="15.0" layoutY="315.0" text="火腿" />
+            <ChoiceBox layoutX="14.0" layoutY="335.0" prefWidth="150.0" />
+            <Label layoutX="224.0" layoutY="38.0" text="订单数量" />
+            <TextField layoutX="224.0" layoutY="58.0" prefHeight="30.0" prefWidth="85.0" />
+            <Button layoutX="224.0" layoutY="100.0" mnemonicParsing="false" text="一键显示订单详情" />
+            <TextArea editable="false" layoutX="383.0" layoutY="-5.0" prefHeight="388.0" prefWidth="200.0" />
+         </children></AnchorPane>
+  </content>
+</ScrollPane>
