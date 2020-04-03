@@ -77,8 +77,8 @@
                 </ChoiceBox>
 
                 <Label layoutX="200.0" layoutY="267.0" text="How many pizza do you want?" />
-                <TextField fx:id="NumberInput" layoutX="200.0" layoutY="287.0" prefHeight="30.0" prefWidth="85.0" promptText="1 to 100"/>
-                <Button fx:id="LineItemGenerator" layoutX="200.0" layoutY="327.0" mnemonicParsing="false" text="Generate Line Item" onAction="#LineItemGeneration"/>
+                <TextField fx:id="NumberInput" layoutX="200.0" layoutY="287.0" prefHeight="30.0" prefWidth="130.0" promptText="1 to 100" />
+                <Button fx:id="LineItemGenerator" layoutX="200.0" layoutY="327.0" mnemonicParsing="false" onAction="#LineItemGeneration" text="Generate Line Item" />
                 <TextArea fx:id="LineItemInfo" editable="false" layoutX="385.0" layoutY="19.0" prefHeight="307.0" prefWidth="440.0" promptText="Your line item information will be here" />
                 <Button fx:id="DisplayUnitPrice" layoutX="201.0" layoutY="187.0" mnemonicParsing="false" onAction="#ViewUnit" text="View unit price" />
                 <TextField fx:id="UnitPrice" editable="false" layoutX="200.0" layoutY="227.0" prefHeight="30.0" prefWidth="130.0" />
