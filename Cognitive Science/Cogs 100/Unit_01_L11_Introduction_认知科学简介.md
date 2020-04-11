@@ -1,4 +1,5 @@
-# Unit 01 L11 Introduction 认知科学简介
+# Unit 01 L11 Introduction 认知科学简介#
+----------
 - **Cognitive Science is a scientific interdisciplinary study of the mind 认知科学是对心灵的跨学科科学研究**
 	- "An effort to study and produce scientific explanations about how our mind works" 研究并给出心灵工作方式的科学解释
 	- 什么是科学研究？
