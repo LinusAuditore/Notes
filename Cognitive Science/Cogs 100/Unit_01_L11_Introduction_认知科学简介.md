@@ -1,25 +1,25 @@
 # Unit 01 L11 Introduction 认知科学简介
-- Cognitive Science is a scientific interdisciplinary study of the mind 认知科学是对心灵的跨学科科学研究
+- **Cognitive Science is a scientific interdisciplinary study of the mind 认知科学是对心灵的跨学科科学研究**
 	- "An effort to study and produce scientific explanations about how our mind works" 研究并给出心灵工作方式的科学解释
-	- What is a scientific study? 什么是科学研究？
-	- Who study the mind? 谁来研究心灵？
-	- What do we need to know? 我们需要知道什么？
-	- How do we study the mind? 我们如何研究心灵？
-	- What is "mind"? 心灵是什么？
-- 什么是认知(Cognition):
+	- 什么是科学研究？
+	- 谁来研究心灵？
+	- 我们需要知道什么？
+	- 我们如何研究心灵？
+	- 心灵是什么？<br><br/>
+- **什么是认知(Cognition):**
 	- 一种了解事物的行为或过程: 知觉
 	- 这种过程的产物;
-	- 知识与智慧
-- 认知和计算(Cognition and Computation)
+	- 知识与智慧<br><br/>
+- **认知和计算(Cognition and Computation)**
 	- 一般认为，人的大脑经过了某种计算，从而产生了明智的行为和意识
 	- 这些计算可能是：
 		- 数学运算
 		- 逻辑判断
 		- 模式匹配
-		- 不断的满足一个目标
-- 意识的运行模式
-	- ![1](https://i.imgur.com/ZdQ65Uk.png)
-- 认知科学的正统定义
+		- 不断的满足一个目标<br><br/>
+- **意识的运行模式**
+	- ![1](https://i.imgur.com/ZdQ65Uk.png)<br><br/>
+- **认知科学的正统定义**
 	- 认知科学，是一种通过以下方法解释思维和思维如何产生智力的跨学科研究：
 		- 结合来自哲学，心理学，神经科学，语言学，人类学和人工智能的理论来解释思维和思维的工作原理。
 		- 形成新的假设并设计实验和计算模型以验证假设。
@@ -27,9 +27,31 @@
 			- 自动化
 			- 教育
 			- 决策支持
-			- 心理健康
-- 认知和智能(Cognition and Intelligence)
-
+			- 心理健康<br><br/>
+- **认知和智能(Cognition and Intelligence)**
+	- **感知**: 以大脑可以理解的形式收集和解释数据
+		- 我们是如何接受信息的?
+	- **认知**: 将解释后的信息链接到现有知识，对其进行更新或创建新知识
+		- 处理信息
+	- 仅仅靠知识并不能使我们变得聪明。**有效运用知识以及融会贯通才使我们产生智慧。**
+		- 知识的融汇贯通<br><br/>
+- **知觉 (Perception)**
+	- **感知器官(输入)**
+	- **基本知识**
+	- **心理程序**
+	- **协调心理程序的结果**
+	- **输出<br><br/>**
+- **知觉的相关程序**
+	- **注意的集中(Focous)**
+	- **注意力和感官：**比如，选择眼睛应该聚焦的位置(多数情况下这个过程会被自动完成而无需**有意识地控制(direct conscious control)**)
+	- 通过记住要关注的内容，我们可以将需要注意的事物置于有意识的控制之下
+	<br><br/>
+- **聊天机器人和机器智能**
+	- 有些电脑程序例如**聊天机器人**可以模拟人与人之间交流的方式
+	- **交流、使用语言是人类智能的一种体现**
+	- **艾伦·图灵（Alan Turing）**首先提出了**图灵测试（Turing test）**的概念，以定义机器智能<br><br/>
+- **什么是程序(Process)?**
+	- **艾伦·图灵（Alan Turing）**，英国数学家，逻辑学家，密码分析家，哲学家和计算机科学家-理论计算机科学和人工智能之父他根据图灵机的**“算法”**和**“计算”**概念，提供了**“程序”**的表述。
 
 
 
