@@ -1,5 +1,4 @@
-# Unit 01 L12 An Interdisciplinary Study 跨学科研究#
-----------
+# Unit 01 L12 An Interdisciplinary Study 跨学科研究
 - **认知科学的研究是一种跨学科的研究**
 	- <b>不同的学</b>科基于<b>既定的概念</b>和<b>理论</b>，**使用不同的方式和方法**来研究心灵(Mind)
 	- 在认知科学的研究中，我们试图找到<b>这些研究的交叉点</b>，并使用<b>计算手段</b>来验证发现。<br><br/>
