@@ -1,4 +1,4 @@
-#Unit 02 L12 Philosophy Approach: Consciousness 意识(哲学解释)
+# Unit 02 L12 Philosophy Approach: Consciousness 意识(哲学解释)
 
 - <b>意识(Consciousness)的定义是什么?</b>
 	- 有意识的而不是入睡或昏迷 (与昏迷相对)
