@@ -8,7 +8,7 @@
 - 访问修饰符(Access modifier)
 - 关键字 `static`(静态)
 
-### Java的类(Class)以及面向对象编程(OOP)
+## Java的类(Class)以及面向对象编程(OOP)
 - 在Java中一个<b>类(class)</b>或<b>对象定义(object definition)</b>或<b>对象(object)</b>是由<b>实例变量(instance variables)</b>和/或<b>方法(methods)</b>组成的。
 - 按照惯例，实例变量都在<b>方法之前声明</b>：
 
@@ -30,13 +30,13 @@ public class ShowStructure{
     - 类的作用类似于"蓝图"，而关键字`new`则用于创建该蓝图的实例。
     - 构造函数(Constructor)可用于在实例化时初始化属性
 
-### Java的包(package)
+## Java的包(package)
 - 包(package)是项目文件中src文件夹下的子文件夹
 - 使用多个包将会帮助在大项目中保证代码有条不紊
 - 如果要进行`import`, 则包名应该在最前，即:<br>
 `import <package_name>.<class_name>.<attribute_or_method_name>;`
 
-### 方法(Method)
+## 方法(Method)
 
 - <b>如何定义一个方法</b>
     - `[private|public] [static] [final] returnType methodName([parameterList]) {…}`
@@ -84,7 +84,7 @@ public class Main {
     - 定义返回结果:<br>`return [literal|expression];`
     - 返回的`literal|expression`必须和最开始定义的类型相匹配
 
-### 字段(Attributes)
+## 字段(Attributes)
 - attribute也称为"类变量"或"实例变量"或"字段(feild)"
 - 在class中和方法在同一层级被定义
 - 这些变量对于类(其"作用域(scope)")中的所有方法都是已知的。
@@ -160,7 +160,7 @@ demo()
     你好
     
 
-### 访问修饰符(Access modifier)
+## 访问修饰符(Access modifier)
 - `public`表示了这个类中的属性和方法<b>可以被任何外部类使用</b>
 - `private`表示了这个类中的属性、方法或者任何成员变量都<b>只能在类的内部使用</b>
 - `protected`表示了这个类中的性、方法或者任何成员变量<b>只能在同一包下的类中使用</b>
@@ -168,7 +168,7 @@ demo()
 - 在类内部，访问修饰符没有任何作用。
 - 某个类的所有成员均可供<b>该类中的所有其他成员</b>使用和访问，而不管访问修饰符如何。
 
-### 关键词`static`
+## 关键词`static`
 - `static`往往有着不同的含义，具体取决于使用它的地方
 - `public static`(静态公有类)的成员可以在类外直接使用而不需要对该类进行实例化
 - 任何静态成员或静态变量将会常驻内存，直到程序退出
