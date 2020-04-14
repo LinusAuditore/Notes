@@ -163,6 +163,24 @@ PrimitiveTypeTest.main()
     最小值：Character.MIN_VALUE=0
     最大值：Character.MAX_VALUE=65535
     
+### 数据类型的转换
+整数类和浮点类基类型之间可以实现互相转换，一部分类型的转换不需任何的显性操作:
+`byte`>`short`>`int`>`long`>`float`>`double`<br>
+按以上顺序，<b>左边的数据类型</b>可以<b>不需要任何显性操作</b>即可转换为<b>右边的数据类型</b>
+例如，我们可以:
+```Java
+int Num = 4;
+double anotherNum = Num;
+```
+在定义`anotherNum`时, 程序会自动将`Num`的`4`(`int`)转换为`4.0`(`double`)
+如果需要把右边的数据类型转换为左边的，则需要通过
+`LeftType NewVarName = (RightType) OldVarName;`这一操作来实现
+例如，以下demo给出了如何将`double`转为`int`:
+```Java
+double dbNum = 4.83;
+int intNum = (int) dbNum;
+```
+这时, `intNum`的值为`4`, 而原有数值`dbNum`中的`.83`, 会以<b>去尾法</b>的形式被取整，<b>其他从右向左的转换都遵循这一法则</b>
 
 ## Java String 类
 字符串广泛应用在 Java 编程中，在 Java 中字符串属于<b>对象(Object)</b>，Java 提供了`String`类来创建和操作字符串。`String`<b>不是原始数据类型!!!</b><br>
