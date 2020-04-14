@@ -7,7 +7,6 @@
 - 字段(Attribute)
 - 访问修饰符(Access modifier)
 - 关键字 `static`(静态)
-- Java的原始数据类型(Primitive Type)
 
 ### Java的类(Class)以及面向对象编程(OOP)
 - 在Java中一个<b>类(class)</b>或<b>对象定义(object definition)</b>或<b>对象(object)</b>是由<b>实例变量(instance variables)</b>和/或<b>方法(methods)</b>组成的。
@@ -177,11 +176,3 @@ demo()
 - 如果一个静态方法想要调用同一类下的其他任何字段，则必须要保证它们都是静态的(IDE通常会帮助我们完成这个部分)
 - `main`方法可以直接在调用同一类下的静态方法而无需使用`ClassName.MethodName()`
 
-### Java的原始数据类型(Primitive Types)
-
-- Java定义了八种基本类型的数据：`byte`，`short`，`int`，`long`，`char`，`float`，`double`和`boolean`。这些类型可以分为以下四类:
-    - <b>整数</b> - 包括：`byte`(-128~127)，`short`(-32768~32767)，`int`(-2147483648~2147483647)和`long`(-9223372036854775808~9223372036854775807)，用于整数有符号数字。
-    - <b>浮点数</b> - 包括`float`(单精度)和`double`(双精度)，表示具有分数精度的数字。
-    - <b>字符</b> - 包括`char`(\u0000 ~ \uffff)，表示字符集中的符号，如字母和数字。
-    - <b>布尔(Boolean)</b> - 包括`boolean`，它是表示 `true`/`false` 值的特殊类型。
-- `String`<b>不是原始数据类型!!!</b>
