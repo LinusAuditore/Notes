@@ -324,8 +324,8 @@ foobar_ArrayList();
     总和为： 11367.373
     
 
-下面的图片描绘了数组 myList。这里 myList 数组里有 10 个 double 元素，它的下标从 0 到 9(引用自菜鸟教程)
-![avartar](https://www.runoob.com/wp-content/uploads/2013/12/12-130Q0221Q5602.jpg)
+下面的图片描绘了数组 myList。这里 myList 数组里有 10 个 double 元素，它的下标从 0 到 9
+![avartar](https://www.runoob.com/wp-content/uploads/2013/12/12-130Q0221Q5602.jpg) <br>(引用自菜鸟教程)
 ### 处理数组
 数组的元素类型和数组的大小都是确定的，所以当处理数组元素时候，我们通常使用<b>基本循环</b>或者<b> For-Each 循环</b>。
 请看以下demo(转载自菜鸟教程):
