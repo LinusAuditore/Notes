@@ -1,7 +1,5 @@
 # COGS100 Ultimate Notes
 
-# COGS100 Ultimate Notes
-
 ## Introduction 认知科学简介
 
 ### 什么是认知科学?
