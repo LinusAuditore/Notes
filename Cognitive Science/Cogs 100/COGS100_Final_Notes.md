@@ -2,7 +2,7 @@
 
 ## Introduction 认知科学简介
 
-- ### ** 什么是认知科学? **
+- ### 什么是认知科学?
 	- <b>Cognitive Science is a scientific interdisciplinary study of the mind 认知科学是对心灵的跨学科科学研究</b>
 	- "An effort to study and produce scientific explanations about how our mind works" 研究并给出心灵工作方式的科学解释
 	- 什么是科学研究？
@@ -273,13 +273,13 @@ drafts model)</b><br><br/>
 
 	
 - ### 关于科学方法：
-	- ** 理论(Theory) **
-	- ** 假设(Hypothesis) **
-	- ** 测试(Testing) **
-	- ** 自变量(Independent Var) **-由研究人员操纵
-	- ** 因变量(Dependent Var) **–由研究人员测量
-	- ** 实验组(Experimental Group) **–接收自变量
-	- ** 对照组(Control Group) **–不接受自变量
+	- <b> 理论(Theory) </b>
+	- <b> 假设(Hypothesis) </b>
+	- <b> 测试(Testing) </b>
+	- <b> 自变量(Independent Var) </b>-由研究人员操纵
+	- <b> 因变量(Dependent Var) </b>–由研究人员测量
+	- <b> 实验组(Experimental Group) </b>–接收自变量
+	- <b> 对照组(Control Group) </b>–不接受自变量
 	- 理论: 实践有助于解决问题
 	- 假设: 考试前练习逻辑问题将提高最终成绩
 	- 因变量: 考试成绩
@@ -300,7 +300,7 @@ drafts model)</b><br><br/>
 		- 这是一种心理状态的主观自我报告过程 (Process of subjective self report of mental states)
 		- 检验自己的意识和思想(Examination of one's own conscious thoughts and feelings.)。 在精神上，是指对一个人的灵魂的检查(the examination of one's soul)
 	- 这种方法与人的自我反思密切相关，并与外部观察(external observation)形成对比。
-	- ** 问题 **
+	- <b> 问题 </b>
 		- 自愿主义(Voluntarism)因其** "内省" **方法而受到批评
 		- 内省法过于主观，取决于个人的知识，感知和学习经验
 
@@ -313,35 +313,35 @@ drafts model)</b><br><br/>
 		
 
 - ### 功能主义心理学(Functionalism)
-	- 功能主义创始人是 ** 威廉·詹姆斯（William James）** –其学说和研究专注于<b>心理过程和功能(mental process and function)</b>，而非要素
+	- 功能主义创始人是 <b>威廉·詹姆斯（William James）</b> –其学说和研究专注于<b>心理过程和功能(mental process and function)</b>，而非要素
 		- 行为基于外部表现 (Behaviour based on external behaviour)
 		- 专注于<b>主观反应(subjuctive reaction)</b>，以及我们如何解释<b>整体行为(overall behaviour)</b>。
 
 
 - ### 格式塔心理学(Gestalt Psychology)
 	- 该学说的创始人包括：韦特海默(Wertheimer)，科勒(Kohler)和卡夫卡(Koffka)。
-		- ** 认为头脑由一个整体构成 **，而不是由多个部分组合而成，其称为完形(Gestalt)
-		- 其研究方法是** 现象学(phenomenology) **，一种对外部刺激的主观描述 
+		- <b>认为头脑由一个整体构成</b>，而不是由多个部分组合而成，其称为完形(Gestalt)
+		- 其研究方法是<b>现象学(phenomenology)</b>，一种对外部刺激的主观描述 
 		- 偏向于人类或动物找到解决问题的方法，而不是进行严格控制的实验
 	- 批评：太定性(Qualitative)而定量(Quantitative)不够。
 
 
 - ### 精神分析心理学(Psychoanalytic Psychology)
-	- 该学说由**西格蒙德·弗洛伊德(Sigmund Freud)**建立。
+	- 该学说由<b>西格蒙德·弗洛伊德(Sigmund Freud)</b>建立。
 		- 头脑是由多个争夺控制权的小头脑(mini-minds)构成的
 		- 该学说阐述了关于意识(Consciousness)的观念
-		- **意识(Consciousness)**–我们意识到的思想方面(想法和感觉)
-		- **前意识(Pre-consciousness)**–我们可以通过努力使意识进入的方面(记忆)
-		- **无意识(Unconsciousness)**–我们完全不了解的方面(呼吸，心跳)
+		- <b>意识(Consciousness)</b>–我们意识到的思想方面(想法和感觉)
+		- <b>前意识(Pre-consciousness)</b>–我们可以通过努力使意识进入的方面(记忆)
+		- <b>无意识(Unconsciousness)</b>–我们完全不了解的方面(呼吸，心跳)
 	- 批评：科学上的缺陷，不是基于客观的观察，也无法预测行为或特质
 
 
 - ### 行为主义(Behaviourism)
-	- **沃森（J Watson）、斯金纳（B Skinner）**是行为主义的先驱
-		- 专注于**刺激(Stimulus)和反应(Responses)**
+	- <b>沃森（J Watson）、斯金纳（B Skinner）</b>是行为主义的先驱
+		- 专注于<b>刺激(Stimulus)和反应(Responses)</b>
 		- 良好行为=奖励，不良行为=惩罚
 		- 伊万·帕夫洛夫（Ivan Pavlov）的条件反射
-		- 在操作中, 使用**强化(Reinforcements)**来指代任何会增加对应反应(Resonpses)发生可能性的事物
+		- 在操作中, 使用<b>强化(Reinforcements)</b>来指代任何会增加对应反应(Resonpses)发生可能性的事物
 		- 调节自己的知觉和反应
 		- 心灵是<b>有机体(o)</b>，也是<b>“黑匣子”(Black Box)</b>
 
