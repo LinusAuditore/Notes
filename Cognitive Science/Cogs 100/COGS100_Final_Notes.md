@@ -186,9 +186,9 @@
 		- **意识问题 (Consciousness)**<br><br/>
 - ### 身心问题 (Mind-Body Problem)
 	- 什么是心灵? (What is mind)
-		- 描述**大脑(具象)**与**心灵(抽象)**品质之间似乎不相同的现象
+		- 描述<b>大脑(具象)</b>与<b>心灵(抽象)</b>品质之间似乎不相同的现象
 	- 肉体和心灵之间的关系是什么?
-	- **物理物质**(大脑)和**非物理物质**(灵魂，意识，思想，欲望，信念) 是否可分离？<br><br/>
+	- <b>物理物质</b>(大脑)和<b>非物理物质</b>(灵魂，意识，思想，欲望，信念) 是否可分离？<br><br/>
 - ### 心灵的本质（哲学立场）
 	- <b>心物一元论 (Monism)</b>身心是一个单一整体
 		- **唯心主义(Idealism)**
@@ -301,7 +301,7 @@ drafts model)</b><br><br/>
 		- 检验自己的意识和思想(Examination of one's own conscious thoughts and feelings.)。 在精神上，是指对一个人的灵魂的检查(the examination of one's soul)
 	- 这种方法与人的自我反思密切相关，并与外部观察(external observation)形成对比。
 	- <b> 问题 </b>
-		- 自愿主义(Voluntarism)因其** "内省" **方法而受到批评
+		- 自愿主义(Voluntarism)因其<b>"内省"</b>方法而受到批评
 		- 内省法过于主观，取决于个人的知识，感知和学习经验
 
 
