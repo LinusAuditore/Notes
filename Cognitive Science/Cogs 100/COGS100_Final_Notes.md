@@ -602,3 +602,88 @@ drafts model)</b>
       - 很多人会强迫自己看一场根本不想看的电影，因为他们怕浪费了买票的钱。而买票的钱是浸没成本，强迫看电影反而导致损失更大
 
 ----------
+
+## 语言学 Linguistic
+### 认知科学与语言学
+- 只有人类才能撰写结构合理的短语和句子进行口头和书面交流。
+- **语言的使用是人类智慧的标志**。
+- 头脑中的语言是如何处理的？
+- 动物有自己的语言。
+
+### 语言学简介
+- 语言学是对语言的研究
+- 语言学有多种理论方法和方法。
+- 语言学论题包括语法规则，动物语言，发展和计算机语音识别。
+
+### 语言的特征 (Characteristics of Language)
+- 克拉克(Clark)提出，语言有五种特性:
+  - **Communicative (交流性)**
+  - **Arbitrary (任意性)**
+  - **Structured (结构性)**
+  - **Generative (生成性)**
+  - **Dynamic (动态)**
+
+### 语法规则 (Grammatical Rule)
+- 语言受到很多语法规则的控制, 这也是人类智慧的标志
+  - **音态学 (Phonology)** - 发音规则
+  - **形态学 (Morphology)** - 字词结构的规则
+  - **句法 (Syntax)** - 句子中排列单词的规则
+  - **语义学 (Semantics)** - 理解语义的规则
+
+### 灵长类语言使用
+- 动物可以交流, 但他们有语言吗?
+  - 在动物认知方面, 许多实验研究黑猩猩的语言使用。
+- 灵长类动物使用语言的表现:
+  - 灵长类动物能表现出语言的:
+    - 任意性 (Arbitrariness)
+    - 位移 (Displacement)
+  - 灵长类动物无法表现出复杂的语法能力
+  - 它们对语言的生成能力有限
+  - 它们不会向同种教授语言
+
+### 语言的习得
+- 人在最初习得语言是会经历四个阶段:
+  - **嘀咕期 (Cooing Stage)**
+  - **冒泡期 (Babbling Stage)**
+  - **一词期 (One-word Stage)**
+  - **二词期 (Two-word Stage)**
+
+### 语言的发展
+- 语言的发展遵循U形发展模式 (U-shape pattern)
+
+### 语言能力的剥夺
+- 人类和其他动物都有一个关键时期(Critical Period)，这是一段发展时期，在这段时期内通常会掌握语言能力或其他一些基本认知技能。
+- **如果儿童在这一关键时期错过了语言体验，则会损害语言能力**。案例研究：野孩子维克多
+
+### 语言学总结
+- **语言并不是思考**
+- 乔姆斯基 (Chomsky )指出，我们天生具有普遍的语法意识，并使用规则来产生语言。
+
+### 语言和进化(Language Evolution)
+- 语言学方法(the linguistic approach)认为**“语言是一种进化的能力”(‘language is an evolved capacity’)**。
+- 这一说法的证据是:
+  - **明确的大脑区域(Defined brain areas)**
+  - **语言的普遍特征(Universal characteristics of language)**
+  - **儿童的发育阶段(The developmental stages of a child.)**
+- 环境在语言习得中起着重要作用。
+
+### 布洛卡氏失语症-(Broca's Aphasia)
+- 失语症(Aphasia)是由于控制语言的大脑部分受损而导致的失调。
+- 布洛卡氏失语症患者的左额叶下部布洛卡氏区域(Broca's Area)受损
+- 这种病症的表现为:
+  - 理解得很好，但在表达语音时遇到困难。
+  - 产生简短，断断续续的句子，并带有许多停顿。
+
+### 韦尔尼克失语症-(Wernicke's Aphasia)
+- 在韦尔尼克失语症患者大脑中，左半球后部的韦尔尼克氏区域(Wernicke's area)受损
+  - 在理解语义时遇到问题，因此会产生和问题不相关的答复。
+  - 产生快速、流畅但语义和关联性不大的语句
+
+### Wernicke-Geschwind语言模型 (Wernicke-Geschwind Model)
+- Wernicke (1960)首次提出了一种如何在大脑中处理语言的模型，后来由Geschwind (1972)进行了扩展。
+- 该模型对神经系统语言处理背后的认知过程给出了过于简单的解释。
+- ![image.png](https://i.loli.net/2020/04/18/4zop5aZQ8JhISlX.png)
+- ![image.png](https://i.loli.net/2020/04/18/Tg8k5FZSed3qlyH.png)
+- ![image.png](https://i.loli.net/2020/04/18/9Bts32mqFH6aLeY.png)
+- 批评：其他大脑区域也参与了语言处理，例如记忆。
+- 症状并不总是与这些大脑区域的问题一致。
