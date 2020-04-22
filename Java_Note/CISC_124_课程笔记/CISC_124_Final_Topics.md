@@ -1,6 +1,4 @@
 # CISC_124_Final_Topics
-
-# CISC_124 Final Topics
 ## Java13基础知识
 - 基本数据类型, 变量的初始化和声明, 表达式(expression), 字段(Attribute) [我的笔记: 类(class)、方法(method)和字段(Attribute)](https://github.com/LinusAuditore/Notes/blob/master/Java_Note/CISC_124_%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/02_%E7%B1%BB(class)%E3%80%81%E6%96%B9%E6%B3%95(method)%E3%80%81%E5%AD%97%E6%AE%B5(Attribute).md)
 - 对象, 基本类型之间的转换  [我的笔记: Java的内置数据类型、字符串、数组](https://github.com/LinusAuditore/Notes/blob/master/Java_Note/CISC_124_%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/03_Java%E7%9A%84%E5%86%85%E7%BD%AE%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E6%95%B0%E7%BB%84.md)
