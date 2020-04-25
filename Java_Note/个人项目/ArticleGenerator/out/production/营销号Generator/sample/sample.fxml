@@ -21,7 +21,7 @@
       <Label layoutX="14.0" layoutY="14.0" text="主体" />
       <Label layoutX="14.0" layoutY="66.0" text="事件" />
       <Label layoutX="14.0" layoutY="117.0" text="另一种说法" />
-      <Button fx:id="Gene" layoutX="14.0" layoutY="177.0" mnemonicParsing="false" onAction="#Generation" text="转换" />
+      <Button fx:id="Gene" layoutX="14.0" layoutY="177.0" mnemonicParsing="false" onAction="#Generation" text="给👴生成" />
       <TextField fx:id="theObj" layoutX="14.0" layoutY="29.0" />
       <TextField fx:id="theEvent" layoutX="14.0" layoutY="81.0" />
       <TextField fx:id="EventSys" layoutX="14.0" layoutY="132.0" />
