@@ -4,4 +4,4 @@
 
 # About the Notes
 This part of Notes are about Android Development based on Java and use IntelliJ IDEA. All these notes have nothing about Kotlin.
-Some of the knowledge and details covered in this part of notes come from <b><i>第一行代码: Android 2nd Edition"</i></b> by Guo Lin, but since this edition was released in the Android N period, some of the content is different from the present (for example No AndroidX support library is involved), so part of the content also comes from Google’s official Android development documentation
+Some of the knowledge and details covered in this part of notes come from <b><i>第一行代码: Android 2nd Edition</i></b> by Guo Lin, but since this edition was released in the Android N period, some of the content is different from the present (for example No AndroidX support library is involved), so part of the content also comes from Google’s official Android development documentation
