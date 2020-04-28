@@ -1,6 +1,6 @@
 # 关于笔记
-该部分Android笔记集是使用IntelliJ IDEA，基于Java的Android开发笔记集，其中没有涉及有关Kotlin的内容<br>
-该笔记设及的部分知识以及细节来自于郭霖的 **《第一行代码: Android 第2版》** ，但由于该版发行于Android N时期，部分内容已经和现在有所不同（例如没有涉及AndroidX支持库），所以部分的内容也来自谷歌官方的Android开发文档
+该部分Android笔记集是使用IntelliJ IDEA，基于Java的Android开发笔记集，其中没有涉及有关Kotlin的内容<br>。
+该笔记设及的部分知识以及细节来自于郭霖的 **《第一行代码: Android 第2版》** ，但由于该版发行于Android N时期，部分内容已经和现在有所不同（例如没有涉及AndroidX支持库），所以部分的内容也来自谷歌官方的Android开发文档。
 
 # About the Notes
 This part of Notes are about Android Development based on Java and use IntelliJ IDEA. All these notes have nothing about Kotlin.<br>
